@@ -1,8 +1,9 @@
-# Research paper writtten by me 
+# 3.Research paper writtten by me 
 i have written a research paper on ML in which i have talked about the proposed model (built by me). Its a classification model with better accuracy on pima indians diabetes datasate , other medical dataset n non medical datasets.
 
 ## link of research paper : https://www.sciencedirect.com/science/article/pii/S2666307421000048
-# Credit card fraud detection project
+
+# 2.Discription about Credit card fraud detection project
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
 ## Content
@@ -14,7 +15,7 @@ It contains only numerical input variables which are the result of a PCA transfo
 Given the class imbalance ratio, we recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification.
 
 
-# Discription about the diabetes project
+# 1.Discription about the diabetes project
 
 
 This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
