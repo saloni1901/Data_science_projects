@@ -1,3 +1,7 @@
+# Research paper writtten by me 
+i have written a research paper on ML in which i have talked about the proposed model (built by me). Its a classification model with better accuracy on pima indians diabetes datasate , other medical dataset n non medical datasets.
+
+## link of research paper : https://www.sciencedirect.com/science/article/pii/S2666307421000048
 # Credit card fraud detection project
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
